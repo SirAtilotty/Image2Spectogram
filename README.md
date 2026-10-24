@@ -6,11 +6,12 @@
 
 ![License](https://img.shields.io/github/license/siratilotty/image2spectogram?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3.9+-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Status](https://img.shields.io/badge/status-beta-orange?style=for-the-badge)
 
 </div>
 
 ---
+
+> 🎉 **After two years in beta, Image2Spectrogram has finally graduated and shipped its first stable release.**
 
 ## Overview
 

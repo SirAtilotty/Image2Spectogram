@@ -52,7 +52,7 @@ pip install numpy scipy pillow
 
 4. **Run the script:**
 ```bash
-cd Image2Spectogram
+cd Image2Spectrogram
 python spectrogram_text.py
 
 ```

@@ -11,7 +11,7 @@
 
 ---
 
-> 🎉 **After two years in beta, Image2Spectrogram has finally graduated and shipped its first stable release.**
+> 🎉 **After one years in beta, Image2Spectrogram has finally graduated and shipped its first stable release.**
 
 ## Overview
 
